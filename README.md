@@ -1,2 +1,2 @@
 # themes
-Theme Submission site
+Switch Theme Submission site
